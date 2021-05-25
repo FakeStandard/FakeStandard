@@ -1,7 +1,9 @@
 #  👋 Hi, I’m Polar bear 
-### I'm a software engineer.
+### I'm a Software Engineer.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning algorithm and .NET Core.
+
+### Welcome to my [Blog](https://fakestandard.github.io)
 
 <!---
 FakeStandard/FakeStandard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
