@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Polar bear.
+#  👋 Hi, I’m Polar bear 
+### I'm a software engineer.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning algorithm and .NET Core.
 
