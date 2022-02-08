@@ -3,6 +3,20 @@
 <p align="center">I’m interested in coding.</p>
 <p align="center">I’m currently learning algorithm, design pattern and .NET Core.</p>
 
+<p align="center">
+<a href="https://github.com/FakeStandard/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakeStandard&layout=compact&hide=html&theme=gruvbox" />
+</a></p>
+
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+-->
+
 ### <p align="center">Welcome to my [Blog](https://fakestandard.github.io) 🌵</p>
 
 <br />
