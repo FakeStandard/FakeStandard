@@ -4,7 +4,7 @@
 <p align="center">I’m currently learning algorithm, design pattern and .NET Core.</p>
 
 <p align="center">
-<a href="https://github.com/FakeStandard/github-readme-stats">
+<a href="https://github.com/FakeStandard/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakeStandard&layout=compact&hide=html&theme=gruvbox&hide_border=1" />
 </a></p>
 
