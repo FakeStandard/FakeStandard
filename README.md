@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://github.com/FakeStandard/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakeStandard&layout=compact&hide=html&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakeStandard&layout=compact&hide=html&theme=gruvbox&hide_border=1" />
 </a></p>
 
 <!--
