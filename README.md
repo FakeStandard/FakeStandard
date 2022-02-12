@@ -1,7 +1,8 @@
 # <p align="center">👋 Hi, I’m Polar Bear </p>
 ### <p align="center">I'm a Software Engineer.</p>
 <p align="center">I’m interested in coding.</p>
-<p align="center">I’m currently learning algorithm, design pattern and .NET Core.</p>
+<p align="center">I’m currently learning algorithm, design pattern and .NET Core,</p>
+<p align="center">and studying SPFx(Sharepoint Online) for a case now</p>
 
 <p align="center">
 <a href="https://github.com/FakeStandard/">
