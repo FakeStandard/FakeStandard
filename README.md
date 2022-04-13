@@ -22,11 +22,13 @@
 
 <br />
 
+<!--
 <p align="center">
   <a href="mailto:rileylin.space@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-rileylin.space%40gmail.com-green?style=for-the-badge&logo=google" />
   </a>
 </p>
+-->
 
 <!---
 FakeStandard/FakeStandard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
