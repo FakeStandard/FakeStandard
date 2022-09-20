@@ -34,3 +34,7 @@
 FakeStandard/FakeStandard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### 近期小作品
+- [Decimal to Binary / 十進位轉二進位](https://fakestandard.github.io/DecimalToBinary/)
+- [Text Counter / 計算字數小工具](https://fakestandard.github.io/blazor-text-counter/)
