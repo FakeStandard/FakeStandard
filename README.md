@@ -36,5 +36,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 近期小作品
-- [Decimal to Binary / 十進位轉二進位](https://fakestandard.github.io/DecimalToBinary/)
+- [Decimal to Binary / 十進位轉二進位](https://fakestandard.github.io/blazor-decimal-to-binary/)
 - [Text Counter / 計算字數小工具](https://fakestandard.github.io/blazor-text-counter/)
