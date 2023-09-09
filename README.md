@@ -18,7 +18,9 @@
 </a>
 -->
 
+<!--
 ### <p align="center">Welcome to my [Blog](https://fakestandard.github.io) 🌵</p>
+-->
 
 <br />
 
@@ -35,6 +37,6 @@ FakeStandard/FakeStandard is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-### 近期小作品
+### 🌵 近期小作品
 - [Flipping Credit Card / 旋轉信用卡](https://fakestandard.github.io/ui-flipping-credit-card/)
 - [Coffee Bean Shop / 咖啡豆網站](https://fakestandard.github.io/ui-coffee-shop-login-form/)
