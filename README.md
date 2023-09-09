@@ -38,5 +38,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 🌵 近期小作品
-- [Flipping Credit Card / 旋轉信用卡](https://fakestandard.github.io/ui-flipping-credit-card/)
-- [Coffee Bean Shop / 咖啡豆網站](https://fakestandard.github.io/ui-coffee-shop-login-form/)
+- [Flipping Credit Card 💳 / 旋轉信用卡](https://fakestandard.github.io/ui-flipping-credit-card/)
+- [Coffee Bean Shop ☕ / 咖啡豆網站](https://fakestandard.github.io/ui-coffee-shop-login-form/)
