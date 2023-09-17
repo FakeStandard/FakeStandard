@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 🌵 近期小作品
-- [Coffee Bean Shop ☕ / 咖啡豆網站](https://fakestandard.github.io/ui-coffee-shop-login-form/)
-- [Flipping Credit Card 💳 / 旋轉信用卡](https://fakestandard.github.io/ui-flipping-credit-card/)
-- [Modern Social Icons :beer: / 社群圖示](https://fakestandard.github.io/ui-deformation-social-icon/)
-- [Hot Air Balloons Card 🎈 / 熱氣球卡片](https://fakestandard.github.io/ui-hot-air-balloons-animation-card/)
+- [Coffee Bean Shop ☕](https://fakestandard.github.io/ui-coffee-shop-login-form/)
+- [Flipping Credit Card 💳](https://fakestandard.github.io/ui-flipping-credit-card/)
+- [Modern Social Icons :beer:](https://fakestandard.github.io/ui-deformation-social-icon/)
+- [Hot Air Balloons Card 🎈](https://fakestandard.github.io/ui-hot-air-balloons-animation-card/)
