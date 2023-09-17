@@ -37,7 +37,7 @@ FakeStandard/FakeStandard is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-### 🌵 近期小作品
+### 🌵 Recently
 - [Coffee Bean Shop ☕](https://fakestandard.github.io/ui-coffee-shop-login-form/)
 - [Flipping Credit Card 💳](https://fakestandard.github.io/ui-flipping-credit-card/)
 - [Modern Social Icons :beer:](https://fakestandard.github.io/ui-deformation-social-icon/)
