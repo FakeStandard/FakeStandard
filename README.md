@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 🌵 Recently
+- [Octopath Traveler II 歧路旅人2 全支線攻略 :hammer:](https://fakestandard.github.io/game-octopath-traveler-2/)
 - [Coffee Bean Shop ☕](https://fakestandard.github.io/ui-coffee-shop-login-form/)
 - [Flipping Credit Card 💳](https://fakestandard.github.io/ui-flipping-credit-card/)
 - [Modern Social Icons :beer:](https://fakestandard.github.io/ui-deformation-social-icon/)
-- [Hot Air Balloons Card 🎈](https://fakestandard.github.io/ui-hot-air-balloons-animation-card/)
